@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D9B77E"/><stop offset="1" stop-color="#A9623F"/></linearGradient></defs>
+  <rect width="1200" height="1500" fill="url(#g)"/>
+  <rect x="18" y="650" width="96" height="96" rx="14" fill="#EAE0CC" opacity="0.45"/>
+  <text x="66" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">2</text>
+  <rect x="126" y="650" width="96" height="96" rx="14" fill="#EAE0CC" opacity="0.45"/>
+  <text x="174" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">5</text>
+  <rect x="234" y="650" width="96" height="96" rx="14" fill="#EAE0CC" opacity="0.45"/>
+  <text x="282" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">8</text>
+  <rect x="342" y="650" width="96" height="96" rx="14" fill="#EAE0CC" opacity="0.45"/>
+  <text x="390" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">12</text>
+  <rect x="450" y="650" width="96" height="96" rx="14" fill="#D98E52" opacity="1"/>
+  <text x="498" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">16</text>
+  <rect x="558" y="650" width="96" height="96" rx="14" fill="#F8F4EC" opacity="1"/>
+  <text x="606" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">23</text>
+  <rect x="666" y="650" width="96" height="96" rx="14" fill="#F8F4EC" opacity="1"/>
+  <text x="714" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">38</text>
+  <rect x="774" y="650" width="96" height="96" rx="14" fill="#F8F4EC" opacity="1"/>
+  <text x="822" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">56</text>
+  <rect x="882" y="650" width="96" height="96" rx="14" fill="#F8F4EC" opacity="1"/>
+  <text x="930" y="712" font-family="sans-serif" font-size="40" text-anchor="middle" fill="#2E2219">72</text>
+  <text x="600" y="560" font-family="sans-serif" font-size="56" text-anchor="middle" fill="#F8F4EC">discard half</text>
+</svg>

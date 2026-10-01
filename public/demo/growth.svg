@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4F5A3A"/><stop offset="1" stop-color="#2E2219"/></linearGradient></defs>
+  <rect width="1200" height="1500" fill="url(#g)"/>
+  <rect x="295" y="1010" width="50" height="90" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="365" y="950" width="50" height="150" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="435" y="885" width="50" height="215" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="505" y="820" width="50" height="280" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="575" y="755" width="50" height="345" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="645" y="690" width="50" height="410" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="715" y="630" width="50" height="470" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="785" y="575" width="50" height="525" rx="10" fill="#F8F4EC" opacity="0.85"/>
+  <rect x="855" y="525" width="50" height="575" rx="10" fill="#F8F4EC" opacity="0.85"/>
+</svg>
