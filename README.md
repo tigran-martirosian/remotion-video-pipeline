@@ -21,6 +21,8 @@ React, TypeScript, Remotion and Zod.
 - `src/video/schema.ts`: Zod schemas, so a bad config fails with a readable error instead of a broken render.
 - `scripts/`: preview, render, layout check and motion review.
 
+The script I'd look at first is `scripts/check.mjs`. It checks the text against the safe area, how long each page holds still, and the reading time.
+
 To add a video, write a config in `src/topics/` and add it to `src/topics/index.ts`.
 
 ## Run
