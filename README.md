@@ -8,7 +8,7 @@ There are also a few scripts that render preview stills, check the layout and re
 
 | Cover | Steps | Stat |
 |---|---|---|
-| ![Cover scene](docs/demo-cover.jpg) | ![Steps scene](docs/demo-steps.jpg) | ![Stat scene](docs/demo-stat.jpg) |
+| <img src="docs/demo-cover.jpg" width="240" alt="Cover scene"> | <img src="docs/demo-steps.jpg" width="240" alt="Steps scene"> | <img src="docs/demo-stat.jpg" width="240" alt="Stat scene"> |
 
 These come from the included demo, "How a binary search works" (about 24 seconds). Its art is SVG made for this repo.
 
