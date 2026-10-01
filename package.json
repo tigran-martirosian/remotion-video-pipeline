@@ -1,0 +1,35 @@
+{
+  "name": "remotion-video-pipeline",
+  "version": "0.1.0",
+  "description": "Vertical short-form explainer videos built from structured scene data with Remotion",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.529",
+    "@remotion/google-fonts": "4.0.529",
+    "@remotion/renderer": "4.0.529",
+    "@remotion/transitions": "4.0.529",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.529",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.529",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "^9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "lint": "eslint src && tsc",
+    "preview": "node scripts/preview.mjs",
+    "render": "node scripts/render.mjs",
+    "check": "node scripts/check.mjs",
+    "motion-qa": "node scripts/motion-qa.mjs"
+  },
+  "author": "Tigran Martirosian"
+}

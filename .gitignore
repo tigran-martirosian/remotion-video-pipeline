@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+.DS_Store
+.env
+
+# Renders, previews and QA output
+out
+*.mp4
