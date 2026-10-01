@@ -40,6 +40,6 @@ npm run motion-qa -- binary-search     # reads the MP4 with ffmpeg: cuts, flicke
 
 ## Limitations
 
-- There are no unit tests. `npm run lint` type-checks the source, and `npm run check` is the automated layout check.
-- The thresholds in `check` (reading speed, hold times) are values I picked by watching renders, not from a standard.
+- Checking is done by `npm run lint`, which type-checks the source, and `npm run check`, the automated layout check, rather than by unit tests.
+- The thresholds in `check` (reading speed, hold times) are tuned by watching renders, not taken from a standard.
 - The demo has no audio. The GIF above is a downscaled copy of the rendered demo, and the MP4 itself isn't in the repo.
